@@ -13,7 +13,6 @@ function App() {
       <Services />
       <Tours />
       <Footer />
-      <div>Hello</div>
     </>
   )
 }
